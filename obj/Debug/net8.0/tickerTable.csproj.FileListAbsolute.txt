@@ -1,0 +1,17 @@
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\bin\Debug\net8.0\tickerTable.exe
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\bin\Debug\net8.0\tickerTable.deps.json
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\bin\Debug\net8.0\tickerTable.runtimeconfig.json
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\bin\Debug\net8.0\tickerTable.dll
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\bin\Debug\net8.0\tickerTable.pdb
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.csproj.AssemblyReference.cache
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.AssemblyInfoInputs.cache
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.AssemblyInfo.cs
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.csproj.CoreCompileInputs.cache
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTa.68FD2220.Up2Date
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.dll
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\refint\tickerTable.dll
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.pdb
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.genruntimeconfig.cache
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\ref\tickerTable.dll
