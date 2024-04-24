@@ -15,3 +15,4 @@ C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0
 C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.pdb
 C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.genruntimeconfig.cache
 C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\ref\tickerTable.dll
+C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\obj\Debug\net8.0\tickerTable.sourcelink.json

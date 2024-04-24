@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Reflection.Metadata.Ecma335;
 using Newtonsoft.Json;
 
 namespace tickerTable
@@ -39,7 +38,7 @@ namespace tickerTable
                     return;
                 }
 
-                string html = "<table style=\"width:100%\"><tr><th>Company</th><th>Ticker</th><th>Price</th><th>Delta</th>";
+                string html = "<table style=\"border: 1px solid black; width: 50%\"><tr><th>Company</th><th>Ticker</th><th>Price</th><th>Delta</th>";
                 foreach (Company company in file.companies)
                 {
                     html += "<tr><td>" + company.Name + "</td><td>" + company.Ticker + "</td><td>" + company.StockPrice + "</td><td>" + company.ChangeValue + "</td>";

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tickerTable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37ceb7c376c5b97c479366e473e947efb71db5b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("tickerTable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tickerTable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
