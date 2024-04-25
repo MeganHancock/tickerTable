@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tickerTable
-build_property.ProjectDir = c:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\
+build_property.ProjectDir = C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

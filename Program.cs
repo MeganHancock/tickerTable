@@ -10,8 +10,8 @@ namespace tickerTable
         {
             public string Name { get; set; }
             public string Ticker { get; set; }
-            public double StockPrice { get; set; }
-            public double ChangeValue { get; set; }
+            public double Price { get; set; }
+            public double Delta { get; set; }
         }
 
         class FileData
@@ -41,7 +41,7 @@ namespace tickerTable
                 string html = "<table style=\"border: 1px solid black; width: 50%\"><tr><th>Company</th><th>Ticker</th><th>Price</th><th>Delta</th>";
                 foreach (Company company in file.companies)
                 {
-                    html += "<tr><td>" + company.Name + "</td><td>" + company.Ticker + "</td><td>" + company.StockPrice + "</td><td>" + company.ChangeValue + "</td>";
+                    html += "<tr><td>" + company.Name + "</td><td>" + company.Ticker + "</td><td>" + company.Price + "</td><td>" + company.Delta + "</td>";
                 }
                 File.WriteAllText(@"C:\Users\mgnhn\Source\Projects\Interview_Assignment\tickerTable\companies.html", html);
             }
